@@ -1,0 +1,17 @@
+seed,expected_games,num_players,avg_fantasy_avg,avg_projected_total,top_player,top_player_team,top_player_projection
+1,4.056,54,11.15,45.21,Cameron Boozer,duke,149.67
+2,3.269,53,10.43,34.1,Joshua Jefferson,iowa-state,96.11
+3,2.744,55,10.84,29.75,Graham Ike,gonzaga,83.14
+4,2.487,59,10.64,26.47,Darius Acuff Jr.,arkansas,80.33
+5,2.056,56,10.65,21.89,JT Toppin,texas-tech,71.34
+6,1.994,60,10.34,20.61,AJ Dybantsa,brigham-young,71.39
+7,1.869,52,11.17,20.87,Paulius Murauskas,saint-marys-ca,53.64
+8,1.669,52,10.6,17.7,Bruce Thornton,ohio-state,48.73
+9,1.556,53,10.38,16.15,Bennett Stirtz,iowa,42.01
+10,1.569,54,10.99,17.25,Mark Mitchell,missouri,42.68
+11,1.606,82,11.05,17.75,Kevin Miller,southern-methodist,47.38
+12,1.494,51,10.95,16.36,Tavari Johnson,akron,41.98
+13,1.244,51,10.99,13.67,Dominique Daniels Jr.,california-baptist,37.57
+14,1.156,56,10.56,12.21,Simeon Cottle,kennesaw-state,30.63
+15,1.094,54,10.83,11.84,Aaron Nkrumah,tennessee-state,28.55
+16,1.012,88,9.7,9.82,Nasir Whitlock,lehigh,28.23
